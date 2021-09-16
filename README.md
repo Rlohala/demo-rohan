@@ -1,3 +1,3 @@
 # Rohan
 
-SOme description
+Some description
